@@ -37,3 +37,8 @@ Things you may want to cover:
 
 * git fetch origin
 * git merge origin/master
+
+# 疑問点と課題
+
+* Databaseとの繋がりの部分（GET？POST？通信）
+* それぞれのディレクトリを見ていく。
