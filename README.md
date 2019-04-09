@@ -24,3 +24,16 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# 新しいrepoの作り方
+
+* git init
+* git add .
+* git commit -m "messeage"
+* git remote add origin URL
+* git push origin master
+
+# Githubでの変更をワークツリーに落とし込む
+
+* git fetch origin
+* git merge origin/master
