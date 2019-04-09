@@ -1,5 +1,7 @@
 # README
 
+This repo is my first railsgirls practice.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
