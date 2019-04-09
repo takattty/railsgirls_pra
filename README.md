@@ -25,10 +25,10 @@ Things you may want to cover:
 
 * ...
 
-# 新しいrepoの作り方
+# 新しいrepoの作り方&VScodeなどで変更をした場合
 
 * git init
-* git add .
+* git add .　or git add ディレクトリ名
 * git commit -m "messeage"
 * git remote add origin URL
 * git push origin master
